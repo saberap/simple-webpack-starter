@@ -1,0 +1,25 @@
+.bg {
+  background-color: red;
+  -webkit-transition: all 1s;
+  transition: all 1s;
+  -webkit-transform: translate(50%);
+  transform: translate(50%);
+}
+
+.button {
+  background-color: red;
+  color: #fff;
+  outline: none;
+  padding: 5px;
+  border: 0;
+  border-radius: 5px;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.button:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+/*# sourceMappingURL=main.css.map*/

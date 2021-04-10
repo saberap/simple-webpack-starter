@@ -1,0 +1,17 @@
+.bg {
+    background-color: red;
+    transition: all 1s;
+    transform: translate(50%);
+}
+.button{
+    background-color: red;
+    color: #fff;
+    outline: none;
+    padding: 5px;
+    border: 0;
+    border-radius: 5px;
+    transition: all 0.2s;
+}
+.button:hover{
+    transform: scale(1.1);
+}
